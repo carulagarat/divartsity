@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Description of Product 1",
+      "tags": ["tag1", "tag2"],
+      "variants": [
+        {
+          "size": "Small",
+          "price": "$10.00",
+          "dimensions": {
+            "width": "5cm",
+            "height": "10cm",
+            "depth": "2cm"
+          }
+        },
+        {
+          "size": "Large",
+          "price": "$20.00",
+          "dimensions": {
+            "width": "10cm",
+            "height": "20cm",
+            "depth": "5cm"
+          }
+        }
+      ],
+      "images": [
+        "/images/product1_1.jpg",
+        "/images/product1_2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Description of Product 2",
+      "tags": ["tag2", "tag3"],
+      "variants": [
+        {
+          "size": "Medium",
+          "price": "$15.00",
+          "dimensions": {
+            "width": "8cm",
+            "height": "15cm",
+            "depth": "4cm"
+          }
+        }
+      ],
+      "images": [
+        "/images/product2_1.jpg",
+        "/images/product2_2.jpg"
+      ]
+    }
+]
