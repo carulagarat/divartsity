@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ProductCatalog />} />
+        <Route path="/divartsity/" element={<ProductCatalog />} />
         {/* Add other routes here */}
       </Routes>
     </Router>
