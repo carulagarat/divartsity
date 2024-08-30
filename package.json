@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "/divartsity",
+  "homepage": "https://carulagarat.github.io/divartsity/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
