@@ -1,32 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
+import { Link } from 'react-router-dom';
 
-const ProductCatalog = () => {
-  const [products, setProducts] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    fetch('/divartsity/products.json')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        return response.json();
-      })
-      .then(data => {
-        setProducts(data);
-        setLoading(false);
-      })
-      .catch(error => {
-        console.error('Error fetching products:', error);
-        setError(error);
-        setLoading(false);
-      });
-  }, []);
-
-  if (loading) return <p>Loading...</p>;
-  if (error) return <p>Error loading products: {error.message}</p>;
-
+const ProductCatalog = ({ products, loading, error }) => {
   // Function to find the smallest price in the variants array
   const getSmallestPrice = (variants) => {
     if (variants.length === 0) return null;
@@ -35,6 +10,9 @@ const ProductCatalog = () => {
     return `$${smallestPrice.toFixed(2)}`;
   };
 
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>Error loading products: {error.message}</p>;
+
   return (
     <div>
       <h1>Product Catalog</h1>
@@ -42,14 +20,16 @@ const ProductCatalog = () => {
         {products.length > 0 ? (
           products.map(product => (
             <div key={product.id} className="product-card">
-              <h2>{product.name}</h2>
-              <p>{product.description}</p>
-              <p>Starting at: {getSmallestPrice(product.variants)}</p>
-              <div className="product-images">
-                {product.images.map((image, index) => (
-                  <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
-                ))}
-              </div>
+              <Link to={`/divartsity/product/${product.id}`}>
+                <div className="product-images">
+                  {product.images.map((image, index) => (
+                    <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
+                  ))}
+                </div>
+                <h2>{product.name}</h2>
+                <p>{product.description}</p>
+                <p>Starting at: {getSmallestPrice(product.variants)}</p>
+              </Link>
             </div>
           ))
         ) : (
