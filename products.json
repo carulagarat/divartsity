@@ -1,18 +1,22 @@
 [
     {
       "id": "short-beaked-echidna",
-      "name": "Short-beaked echidna",
+      "name": {
+        "en": "Short-beaked echidna",
+        "es": "Short-beaked echidna"
+      },
       "scienceName": "Tachyglossus aculeatus",
-      "description": "Description of Product 1",
-			"class": "Mamalia",
+      "description": {
+        "en": "Description of Product 1",
+        "es": "Descripción de Producto 1"
+      },
 			"order": "Monotremata",
 			"family": "Tachyglossidae",
-			"subfamily": false,
-      "tags": ["Mamalia", "Monotremata"],
+      "tags": [],
       "variants": [
         {
-          "size": "1:1",
-          "price": "$10.00",
+          "size": "1:10",
+          "price": "10.00",
           "dimensions": {
             "width": "5",
             "height": "10",
@@ -20,8 +24,8 @@
           }
         },
         {
-          "size": "Large",
-          "price": "$20.00",
+          "size": "1:20",
+          "price": "20.00",
           "dimensions": {
             "width": "10",
             "height": "20",
@@ -30,60 +34,281 @@
         }
       ],
       "images": [
-        "/divartsity/images/product1.jpg",
-        "/divartsity/images/product1.jpg"
+        "/divartsity/images/short-beaked-echidna1.jpg",
+        "/divartsity/images/short-beaked-echidna1.jpg"
       ]
     },
     {
       "id": "water-opossum",
-      "name": "Water opossum",
+      "name": {
+        "en": "Water opossum",
+        "es": "Water opossum"
+      },
       "scienceName": "Chironectes mininmus",
-      "description": "Description of Product 2",
-			"class": "Mamalia",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
 			"order": "Didelphimorphia",
 			"family": "Didelphidae",
-			"subfamily": false,
-      "tags": ["Mamalia", "Didelphimorphia"],
+      "tags": [],
       "variants": [
         {
-          "size": "Medium",
-          "price": "$15.00",
+          "size": "1:10",
+          "price": "15.00",
           "dimensions": {
             "width": "8",
             "height": "15",
             "depth": "4"
           }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
         }
       ],
       "images": [
-        "/divartsity/images/product2.jpg",
-        "/divartsity/images/product2.jpg"
+        "/divartsity/images/water-opossum1.jpg",
+        "/divartsity/images/water-opossum1.jpg"
       ]
     },
     {
-      "id": "Embolotherium-regilensi",
-      "name": "Embolotherium regilensi",
-      "scienceName": false,
-      "description": "Description of Product 2",
-			"class": "Mamalia",
-			"order": "Perissodactyla",
-			"family": "Brontotheriidae",
-			"subfamily": false,
-      "tags": ["Mamalia", "extint"],
+      "id": "mexican-mouse-opossum",
+      "name": {
+        "en": "Mexican mouse opossum",
+        "es": "Mexican mouse opossum"
+      },
+      "scienceName": "Marmosa mexicana",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
+			"order": "Didelphimorphia",
+			"family": "Didelphidae",
+      "tags": [],
       "variants": [
         {
-          "size": "Medium",
-          "price": "$15.00",
+          "size": "1:10",
+          "price": "15.00",
           "dimensions": {
             "width": "8",
             "height": "15",
             "depth": "4"
           }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
         }
       ],
       "images": [
-        "/divartsity/images/product3.jpg",
-        "/divartsity/images/product3.jpg"
+        "/divartsity/images/mexican-mouse-opossum1.jpg",
+        "/divartsity/images/mexican-mouse-opossum1.jpg"
+      ]
+    },
+    {
+      "id": "greater-bilby",
+      "name": {
+        "en": "greater bilby",
+        "es": "greater bilby"
+      },
+      "scienceName": "Macrotis lagotis",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
+			"order": "Peramelemorphia",
+			"family": "Thylacomydae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/greater-bilby1.jpg",
+        "/divartsity/images/greater-bilby1.jpg"
+      ]
+    },
+    {
+      "id": "eastern-barred-bandicoot",
+      "name": {
+        "en": "eastern barred bandicoot",
+        "es": "eastern barred bandicoot"
+      },
+      "scienceName": "Perameles gunnii",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
+			"order": "Peramelemorphia",
+			"family": "Peramelidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/eastern-barred-bandicoot1.jpg",
+        "/divartsity/images/eastern-barred-bandicoot1.jpg"
+      ]
+    },
+    {
+      "id": "tasmanian-wombat",
+      "name": {
+        "en": "tasmanian wombat",
+        "es": "tasmanian wombat"
+      },
+      "scienceName": "Vombatus ursinus tasmaniensis",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
+			"order": "Diprotodontia",
+			"family": "Vombatidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/tasmanian-wombat1.jpg",
+        "/divartsity/images/tasmanian-wombat1.jpg"
+      ]
+    },
+    {
+      "id": "sulawesi-bear-cuscus",
+      "name": {
+        "en": "sulawesi bear cuscus",
+        "es": "sulawesi bear cuscus"
+      },
+      "scienceName": "Ailurops ursinus",
+      "description": {
+        "en": "Description of Product 2",
+        "es": "Descripción de Producto 2"
+      },
+			"order": "Diprotodontia",
+			"family": "Phalangeridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/sulawesi-bear-cuscus1.jpg",
+        "/divartsity/images/sulawesi-bear-cuscus1.jpg"
+      ]
+    },
+    {
+      "id": "embolotherium-regilensi",
+      "name": {
+        "en": "Embolotherium regilensi",
+        "es": "Embolotherium regilensi"
+      },
+      "scienceName": false,
+      "description": {
+        "en": "Description of Product 3",
+        "es": "Descripción de Producto 3"
+      },
+			"order": "Perissodactyla",
+			"family": "Brontotheriidae",
+      "tags": ["extint"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/embolotherium-regilensi1.jpg",
+        "/divartsity/images/embolotherium-regilensi1.jpg"
       ]
     }
 ]
