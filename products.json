@@ -1,26 +1,31 @@
 [
     {
-      "id": 1,
-      "name": "Product 1",
+      "id": "short-beaked-echidna",
+      "name": "Short-beaked echidna",
+      "scienceName": "Tachyglossus aculeatus",
       "description": "Description of Product 1",
-      "tags": ["tag1", "tag2"],
+			"class": "Mamalia",
+			"order": "Monotremata",
+			"family": "Tachyglossidae",
+			"subfamily": false,
+      "tags": ["Mamalia", "Monotremata"],
       "variants": [
         {
-          "size": "Small",
+          "size": "1:1",
           "price": "$10.00",
           "dimensions": {
-            "width": "5cm",
-            "height": "10cm",
-            "depth": "2cm"
+            "width": "5",
+            "height": "10",
+            "depth": "2"
           }
         },
         {
           "size": "Large",
           "price": "$20.00",
           "dimensions": {
-            "width": "10cm",
-            "height": "20cm",
-            "depth": "5cm"
+            "width": "10",
+            "height": "20",
+            "depth": "5"
           }
         }
       ],
@@ -30,24 +35,55 @@
       ]
     },
     {
-      "id": 2,
-      "name": "Product 2",
+      "id": "water-opossum",
+      "name": "Water opossum",
+      "scienceName": "Chironectes mininmus",
       "description": "Description of Product 2",
-      "tags": ["tag2", "tag3"],
+			"class": "Mamalia",
+			"order": "Didelphimorphia",
+			"family": "Didelphidae",
+			"subfamily": false,
+      "tags": ["Mamalia", "Didelphimorphia"],
       "variants": [
         {
           "size": "Medium",
           "price": "$15.00",
           "dimensions": {
-            "width": "8cm",
-            "height": "15cm",
-            "depth": "4cm"
+            "width": "8",
+            "height": "15",
+            "depth": "4"
           }
         }
       ],
       "images": [
         "/divartsity/images/product2.jpg",
         "/divartsity/images/product2.jpg"
+      ]
+    },
+    {
+      "id": "Embolotherium-regilensi",
+      "name": "Embolotherium regilensi",
+      "scienceName": false,
+      "description": "Description of Product 2",
+			"class": "Mamalia",
+			"order": "Perissodactyla",
+			"family": "Brontotheriidae",
+			"subfamily": false,
+      "tags": ["Mamalia", "extint"],
+      "variants": [
+        {
+          "size": "Medium",
+          "price": "$15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        }
+      ],
+      "images": [
+        "/divartsity/images/product3.jpg",
+        "/divartsity/images/product3.jpg"
       ]
     }
 ]
