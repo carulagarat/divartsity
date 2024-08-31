@@ -6,7 +6,9 @@ const Cart = ({ cart }) => {
   };
 
   return (
-    <div>
+    <div className='page'>
+      <div className='content'>
+
       <h1>Your Cart</h1>
       {cart.length === 0 ? (
         <p>Your cart is empty</p>
@@ -22,6 +24,7 @@ const Cart = ({ cart }) => {
           <h3>Total: ${calculateTotal()}</h3>
         </div>
       )}
+      </div>
     </div>
   );
 };

@@ -51,7 +51,7 @@ const ProductDetail = ({ products, addToCart }) => {
   };
 
   return (
-    <div>
+    <div className='page'>
       <div className="product-images">
         {product.images.map((image, index) => (
           <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
@@ -61,6 +61,10 @@ const ProductDetail = ({ products, addToCart }) => {
       
       {product.scienceName ? <h2>({product.scienceName})</h2> : null}
 
+      <p>Class: {product.class}</p>
+      <p>Order: {product.order}</p>
+      <p>Family: {product.family}</p>
+      <p>{product.description}</p>
       {selectedVariant && (
           <p className='dimensions'>
             <span>{selectedVariant.dimensions.width}</span>
@@ -71,10 +75,6 @@ const ProductDetail = ({ products, addToCart }) => {
             <span>cm</span>
           </p>
       )}
-      <p>Class: {product.class}</p>
-      <p>Order: {product.order}</p>
-      <p>Family: {product.family}</p>
-      <p>{product.description}</p>
       <h3>Variants</h3>
       <ul>
         {product.variants.map((variant, index) => (
@@ -92,7 +92,7 @@ const ProductDetail = ({ products, addToCart }) => {
       </ul>
       {selectedVariant && (
         <div>
-          <p>Price: {selectedVariant.price}</p>
+          <p>Price: {selectedVariant.price}€</p>
           <div>
             <label>Quantity: </label>
             <input
@@ -103,7 +103,7 @@ const ProductDetail = ({ products, addToCart }) => {
             />
           </div>
           <div className='total'>
-            Total price: ${calculateTotalPrice()}
+            Total price: {calculateTotalPrice()}€
           </div>
           <button onClick={handleAddToCart}>Add to Cart</button> {/* Add to Cart button */}
         </div>
