@@ -52,29 +52,42 @@ const ProductDetail = ({ products, addToCart }) => {
 
   return (
     <div className='page'>
-      <div className="product-images">
-        {product.images.map((image, index) => (
-          <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
-        ))}
-      </div>
-      <h1>{product.name}</h1>
-      
-      {product.scienceName ? <h2>({product.scienceName})</h2> : null}
+    <div className='content'>
 
-      <p>Class: {product.class}</p>
-      <p>Order: {product.order}</p>
-      <p>Family: {product.family}</p>
-      <p>{product.description}</p>
-      {selectedVariant && (
-          <p className='dimensions'>
-            <span>{selectedVariant.dimensions.width}</span>
-            <span>x</span>
-            <span>{selectedVariant.dimensions.height}</span>
-            <span>x</span>
-            <span>{selectedVariant.dimensions.depth}</span>
-            <span>cm</span>
-          </p>
-      )}
+      <div className='row product-detail'>
+
+        <div className="product-images">
+          {product.images.map((image, index) => (
+            <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
+          ))}
+        </div>
+        <div className='product-info column'>
+
+          <h1>{product.name}</h1>
+          
+          {product.scienceName ? <h2>{product.scienceName}</h2> : null}
+
+          <div className='row'>
+            <p>Order: {product.order}</p>
+            <p>Family: {product.family}</p>
+          </div>
+
+          <p>{product.description}</p>
+          {selectedVariant && (
+              <p className='dimensions'>
+                <span>{selectedVariant.dimensions.width}</span>
+                <span>x</span>
+                <span>{selectedVariant.dimensions.height}</span>
+                <span>x</span>
+                <span>{selectedVariant.dimensions.depth}</span>
+                <span>cm</span>
+              </p>
+          )}
+
+        </div>
+
+      </div>
+
       <h3>Variants</h3>
       <ul>
         {product.variants.map((variant, index) => (
@@ -108,6 +121,7 @@ const ProductDetail = ({ products, addToCart }) => {
           <button onClick={handleAddToCart}>Add to Cart</button> {/* Add to Cart button */}
         </div>
       )}
+    </div>
     </div>
   );
 };

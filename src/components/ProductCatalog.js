@@ -59,8 +59,7 @@ const ProductCatalog = ({ products, loading, error, texts }) => {
           texts={texts}
           clearAllFilters={clearAllFilters}
         />
-
-        <div className="product-list row wrap">
+        <div className="product-list content row wrap">
           {filteredProducts.length > 0 ? (
             filteredProducts.map(product => (
               <div key={product.id} className="product-card">

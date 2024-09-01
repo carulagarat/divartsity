@@ -93,6 +93,7 @@ body {
 h1 {
   font-weight: 200;
   font-size: 48px;
+  line-height: 1em;
   letter-spacing: -0.04em;
   color: #c07754;
   width: auto;
@@ -101,6 +102,16 @@ h1 {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
+}
+h2 {
+  font-size: 28px;
+  line-height: 1.2em;
+  font-weight: 400;
+  font-style: italic;
+  color: #91876a;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
 }
 h3 {
   font-size: 18px;
@@ -120,6 +131,12 @@ h4 {
   letter-spacing: 0;
   margin: 0;
   padding: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  text-transform: capitalize;
 }
 .content {
   max-width: 980px;
@@ -257,8 +274,13 @@ footer li:first-child {
           justify-content: center;
   color: #494232;
 }
+.filters .close:hover {
+  color: #c07754;
+}
 .filters .close.disabled {
-  color: #91876a;
+  color: #cbc6b8;
+  cursor: initial;
+  pointer-events: none;
 }
 .cart {
   position: relative;
@@ -320,6 +342,7 @@ footer li:first-child {
 .field select:disabled ~ label {
   color: #cbc6b8;
   border-color: #f4f3f0;
+  cursor: initial;
 }
 .field .options {
   border: thin solid #cbc6b8;
@@ -387,6 +410,7 @@ select {
 input:disabled,
 select:disabled {
   background: #f4f3f0;
+  cursor: initial;
 }
 select,
 button {
@@ -423,7 +447,8 @@ button {
 }
 .product-card .product-images {
   width: 100%;
-  height: 200px;
+  padding-top: 100%;
+  border: thin solid #f4f3f0;
   position: relative;
   overflow: hidden;
   border-radius: 4px;
@@ -434,11 +459,21 @@ button {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-}
-.product-card .product-images img:last-child {
   position: absolute;
   top: 0;
+  left: 0;
+}
+.product-card .product-images img:last-child {
   left: 100%;
+  -webkit-transition: left ease-in-out 200ms, -webkit-transform ease-in-out 600ms;
+  transition: left ease-in-out 200ms, -webkit-transform ease-in-out 600ms;
+  transition: left ease-in-out 200ms, transform ease-in-out 600ms;
+  transition: left ease-in-out 200ms, transform ease-in-out 600ms, -webkit-transform ease-in-out 600ms;
+}
+.product-card:hover .product-images img:last-child {
+  left: 0;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
 }
 .price {
   font-size: 18px;
@@ -450,4 +485,24 @@ button {
   font-size: 14px;
   font-weight: 500;
   color: #91876a;
+}
+.product-detail {
+  width: 100%;
+}
+.product-detail .product-info,
+.product-detail .product-images {
+  width: 100%;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 50%;
+          flex: 0 0 50%;
+}
+.product-detail .product-info {
+  padding: 16px;
+}
+.product-detail .product-info h1 {
+  margin: 0 0 16px 0;
+}
+.product-detail .product-images {
+  border: thin solid #cbc6b8;
+  border-radius: 4px;
 }
