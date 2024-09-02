@@ -32,10 +32,6 @@
             "depth": "5"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/short-beaked-echidna1.jpg",
-        "/divartsity/images/short-beaked-echidna1.jpg"
       ]
     },
     {
@@ -71,10 +67,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/water-opossum1.jpg",
-        "/divartsity/images/water-opossum1.jpg"
       ]
     },
     {
@@ -110,10 +102,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/mexican-mouse-opossum1.jpg",
-        "/divartsity/images/mexican-mouse-opossum1.jpg"
       ]
     },
     {
@@ -149,10 +137,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/greater-bilby1.jpg",
-        "/divartsity/images/greater-bilby1.jpg"
       ]
     },
     {
@@ -188,10 +172,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/eastern-barred-bandicoot1.jpg",
-        "/divartsity/images/eastern-barred-bandicoot1.jpg"
       ]
     },
     {
@@ -227,10 +207,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/tasmanian-wombat1.jpg",
-        "/divartsity/images/tasmanian-wombat1.jpg"
       ]
     },
     {
@@ -266,10 +242,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/sulawesi-bear-cuscus1.jpg",
-        "/divartsity/images/sulawesi-bear-cuscus1.jpg"
       ]
     },
     {
@@ -305,10 +277,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/musky-rat-kangaroo1.jpg",
-        "/divartsity/images/musky-rat-kangaroo1.jpg"
       ]
     },
     {
@@ -344,10 +312,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/eastern-bettong1.jpg",
-        "/divartsity/images/eastern-bettong1.jpg"
       ]
     },
     {
@@ -383,10 +347,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/red-kangaroo1.jpg",
-        "/divartsity/images/red-kangaroo1.jpg"
       ]
     },
     {
@@ -422,10 +382,3541 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/lowland-streaked-tenrec1.jpg",
-        "/divartsity/images/lowland-streaked-tenrec1.jpg"
+      ]
+    },
+    {
+      "id": "giant-otter-shrew",
+      "name": {
+        "en": "Giant otter shrew",
+        "es": "Giant otter shrew"
+      },
+      "scienceName": "​Potamogale velox",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Afrosoricida",
+			"family": "Potamogalidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "golden-rumped-elephant-shrew",
+      "name": {
+        "en": "Golden rumped elephant shrew",
+        "es": "Golden rumped elephant shrew"
+      },
+      "scienceName": "Rhynchocyon chrysopygus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Macroscelidea",
+			"family": "Macroscelididae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "black-and-rufous-elephant-shrew",
+      "name": {
+        "en": "black and rufous elephant shrew",
+        "es": "black and rufous elephant shrew"
+      },
+      "scienceName": "Rhynchocyon petersi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Macroscelidea",
+			"family": "Macroscelididae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "four-toed-elephant-shrew",
+      "name": {
+        "en": "four-toed elephant shrew",
+        "es": "four-toed elephant shrew"
+      },
+      "scienceName": "Rhynchocyon petersi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Macroscelidea",
+			"family": "Macroscelididae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rocky-hyrax",
+      "name": {
+        "en": "rocky hyrax",
+        "es": "rocky hyrax"
+      },
+      "scienceName": "Procavia capensis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Hyracoidea",
+			"family": "Procaviidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "leucistic-rocky-hyrax",
+      "name": {
+        "en": "rocky hyrax",
+        "es": "rocky hyrax"
+      },
+      "scienceName": "Procavia capensis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Hyracoidea",
+			"family": "Procaviidae",
+      "tags": ["leucistic"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bioko-tree-hyrax",
+      "name": {
+        "en": "bioko tree hyrax",
+        "es": "bioko tree hyrax"
+      },
+      "scienceName": "Dendrohyrax interfluvialis interfluvialis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Hyracoidea",
+			"family": "Procaviidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "african-bush-elephant",
+      "name": {
+        "en": "african bush elephant",
+        "es": "african bush elephant"
+      },
+      "scienceName": "Loxodonta africana",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Proboscidea",
+			"family": "Elephantidae",
+      "tags": ["Africa"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "african-forest-elephant",
+      "name": {
+        "en": "african forest elephant",
+        "es": "african forest elephant"
+      },
+      "scienceName": "Loxodonta cyclotis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Proboscidea",
+			"family": "Elephantidae",
+      "tags": ["Africa"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "asian-elephant",
+      "name": {
+        "en": "asian elephant",
+        "es": "Elefante asiático"
+      },
+      "scienceName": "Elephas maximus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Proboscidea",
+			"family": "Elephantidae",
+      "tags": ["Asia"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "florida-manatee",
+      "name": {
+        "en": "florida manatee",
+        "es": "florida manatee"
+      },
+      "scienceName": "Trichechus manatus latirostris",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Sirenia",
+			"family": "Trichechidae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "albino-florida-manatee",
+      "name": {
+        "en": "albino florida manatee",
+        "es": "albino florida manatee"
+      },
+      "scienceName": "Trichechus manatus latirostris",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Sirenia",
+			"family": "Trichechidae",
+      "tags": ["marine", "albino"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giant-armadillo",
+      "name": {
+        "en": "giant armadillo",
+        "es": "giant armadillo"
+      },
+      "scienceName": "priodontes maximus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cingulata",
+			"family": "Chlamyphoridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "six-banded-armadillo",
+      "name": {
+        "en": "six-banded armadillo",
+        "es": "six-banded armadillo"
+      },
+      "scienceName": "Euphractus sexcinctus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cingulata",
+			"family": "Chlamyphoridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pink-fairy-armadillo",
+      "name": {
+        "en": "pink fairy armadillo",
+        "es": "pink fairy armadillo"
+      },
+      "scienceName": "Chlamyphorus truncatus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cingulata",
+			"family": "Chlamyphoridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giant-anteater",
+      "name": {
+        "en": "giant anteater",
+        "es": "giant anteater"
+      },
+      "scienceName": "Myrmecophaga tridactila",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Pilosa",
+			"family": "Myrmecophagidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "large-treeshrew",
+      "name": {
+        "en": "large treeshrew",
+        "es": "large treeshrew"
+      },
+      "scienceName": "Tupaia tana",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Scandentia",
+			"family": "Tupaiidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sunda-flying-lemur",
+      "name": {
+        "en": "sunda flying lemur",
+        "es": "sunda flying lemur"
+      },
+      "scienceName": "Galeopterus variegatus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Dermoptera",
+			"family": "Cynocephalidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "philipines-flying-lemur-with-offspring",
+      "name": {
+        "en": "philipines flying lemur with offspring",
+        "es": "philipines flying lemur with offspring"
+      },
+      "scienceName": "Galeopterus variegatus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Dermoptera",
+			"family": "Cynocephalidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pale-fork-marked-lemur",
+      "name": {
+        "en": "pale fork-marked lemur",
+        "es": "pale fork-marked lemur"
+      },
+      "scienceName": "Phaner pallescens",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cheirogaleidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "indri",
+      "name": {
+        "en": "indri",
+        "es": "indri"
+      },
+      "scienceName": "indri indri",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Indriidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "golden-angwantibo",
+      "name": {
+        "en": "golden angwantibo",
+        "es": "golden angwantibo"
+      },
+      "scienceName": "Arctocebus aureus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Lorisidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "western-tarsier",
+      "name": {
+        "en": "western tarsier",
+        "es": "western tarsier"
+      },
+      "scienceName": "Cephalopachus bancanus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "tarsiidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "white-bald-uakari",
+      "name": {
+        "en": "white bald uakari",
+        "es": "white bald uakari"
+      },
+      "scienceName": "Cacajaus calvus calvus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Pitheciidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "novaesi-bald-uakari",
+      "name": {
+        "en": "novaesi bald uakari",
+        "es": "novaesi bald uakari"
+      },
+      "scienceName": "Cacajaus calvus novaesii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Pitheciidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ucayali-bald-uakari",
+      "name": {
+        "en": "ucayali bald uakari",
+        "es": "ucayali bald uakari"
+      },
+      "scienceName": "Cacajaus calvus ucayalii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Pitheciidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "celebes-crested-macaque",
+      "name": {
+        "en": "celebes crested macaque",
+        "es": "celebes crested macaque"
+      },
+      "scienceName": "Macaca nigra",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "celebes-crested-macaque-seated",
+      "name": {
+        "en": "celebes crested macaque seated",
+        "es": "celebes crested macaque seated"
+      },
+      "scienceName": "Macaca nigra",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mandrill",
+      "name": {
+        "en": "mandrill",
+        "es": "mandrill"
+      },
+      "scienceName": "Mandrillus sphinx",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "olive-baboon",
+      "name": {
+        "en": "olive baboon",
+        "es": "olive baboon"
+      },
+      "scienceName": "papio anubis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blue-nile-patas-monkey",
+      "name": {
+        "en": "blue nile patas monkey",
+        "es": "blue nile patas monkey"
+      },
+      "scienceName": "Erythrocebus poliophaeus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blue-nile-patas-monkey-walking",
+      "name": {
+        "en": "blue nile patas monkey walking",
+        "es": "blue nile patas monkey walking"
+      },
+      "scienceName": "Erythrocebus poliophaeus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanzibar-red-colobus-male",
+      "name": {
+        "en": "zanzibar red colobus male",
+        "es": "zanzibar red colobus male"
+      },
+      "scienceName": "Piliocolobus kirkii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanzibar-red-colobus-female",
+      "name": {
+        "en": "zanzibar red colobus female",
+        "es": "zanzibar red colobus female"
+      },
+      "scienceName": "Piliocolobus kirkii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": ["female"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanzibar-red-colobus-female-extended-tail",
+      "name": {
+        "en": "zanzibar red colobus female extended tail",
+        "es": "zanzibar red colobus female extended tail"
+      },
+      "scienceName": "Piliocolobus kirkii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": ["female"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanzibar-red-colobus-offspring",
+      "name": {
+        "en": "zanzibar red colobus offspring",
+        "es": "zanzibar red colobus offspring"
+      },
+      "scienceName": "Piliocolobus kirkii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": ["offspring"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zanzibar-red-colobus-offspring-seated",
+      "name": {
+        "en": "zanzibar red colobus offspring seated",
+        "es": "zanzibar red colobus offspring seated"
+      },
+      "scienceName": "Piliocolobus kirkii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": ["offspring"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Yunnan-snub-nosed-monkey",
+      "name": {
+        "en": "Yunnan snub-nosed monkey",
+        "es": "Yunnan snub-nosed monkey"
+      },
+      "scienceName": "Rhinopithecus bieti",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Cercopithecidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "golden-snub-nosed-monkey",
+      "name": {
+        "en": "golden snub-nosed monkey",
+        "es": "golden snub-nosed monkey"
+      },
+      "scienceName": "Rhinopithecus roxellanagolgol",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bornean-orangutan",
+      "name": {
+        "en": "bornean orangutan",
+        "es": "bornean orangutan"
+      },
+      "scienceName": "Pongo pygmaeus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "western-chimpanzee",
+      "name": {
+        "en": "western chimpanzee",
+        "es": "western chimpanzee"
+      },
+      "scienceName": "Pan troglodytes verus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "western-chimpanzee-seated",
+      "name": {
+        "en": "western chimpanzee seated",
+        "es": "western chimpanzee seated"
+      },
+      "scienceName": "Pan troglodytes verus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "western-gorilla",
+      "name": {
+        "en": "western gorilla",
+        "es": "western gorilla"
+      },
+      "scienceName": "gorilla gorilla",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "human",
+      "name": {
+        "en": "human",
+        "es": "human"
+      },
+      "scienceName": "homo sapiens",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Primates",
+			"family": "Hominidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit",
+      "name": {
+        "en": "volcano rabbit",
+        "es": "volcano rabbit"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit-standing",
+      "name": {
+        "en": "volcano rabbit standing",
+        "es": "volcano rabbit standing"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit-looking-up",
+      "name": {
+        "en": "volcano rabbit looking up",
+        "es": "volcano rabbit looking up"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit-walking",
+      "name": {
+        "en": "volcano rabbit walking",
+        "es": "volcano rabbit walking"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit-seated",
+      "name": {
+        "en": "volcano rabbit seated",
+        "es": "volcano rabbit seated"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volcano-rabbit-sitting-up",
+      "name": {
+        "en": "volcano rabbit sitting up",
+        "es": "volcano rabbit sitting up"
+      },
+      "scienceName": "Romerolagis diazi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arctic-hare",
+      "name": {
+        "en": "arctic hare",
+        "es": "arctic hare"
+      },
+      "scienceName": "Lepus articus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Lagomorpha",
+			"family": "Leporidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lord-derby-s-anomalure",
+      "name": {
+        "en": "lord derby's anomalure",
+        "es": "lord derby's anomalure"
+      },
+      "scienceName": "Anomalurus debianus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Anomaluridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "golden-hamster",
+      "name": {
+        "en": "golden hamster",
+        "es": "golden hamster"
+      },
+      "scienceName": "Mesocricetus auratus​",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Cricetidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crested-rat",
+      "name": {
+        "en": "crested rat",
+        "es": "crested rat"
+      },
+      "scienceName": "Lophiomys imhausi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Muridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-luzon-cloud-rat",
+      "name": {
+        "en": "northern luzon cloud rat",
+        "es": "northern luzon cloud rat"
+      },
+      "scienceName": "Phloeomys pallidus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Muridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "common-gundi",
+      "name": {
+        "en": "common gundi",
+        "es": "common gundi"
+      },
+      "scienceName": "ctenodactylus gundi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Ctenodactylidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "indian-crested-porcupine",
+      "name": {
+        "en": "indian crested porcupine",
+        "es": "indian crested porcupine"
+      },
+      "scienceName": "Hystrix indica",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Hystricidae",
+      "tags": ["India"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "african-brush-tailed-porcupine",
+      "name": {
+        "en": "african brush-tailed porcupine",
+        "es": "african brush-tailed porcupine"
+      },
+      "scienceName": "Atherurus africanus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Hystricidae",
+      "tags": ["Africa"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lowland-paca",
+      "name": {
+        "en": "lowland paca",
+        "es": "lowland paca"
+      },
+      "scienceName": "cuniculus paca",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "cuniculidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "capybara",
+      "name": {
+        "en": "capybara",
+        "es": "capibara"
+      },
+      "scienceName": "Hydrochoerus hydrochaeris",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "caviidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "patagonian-mara",
+      "name": {
+        "en": "patagonian mara",
+        "es": "patagonian mara"
+      },
+      "scienceName": "Dolichotis patagonum",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "caviidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "central-america-agouti",
+      "name": {
+        "en": "central america agouti",
+        "es": "central america agouti"
+      },
+      "scienceName": "Dasyprocta punctata",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Dasyproctidae",
+      "tags": ["America"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "central-america-agouti-seated",
+      "name": {
+        "en": "central america agouti seated",
+        "es": "central america agouti seated"
+      },
+      "scienceName": "Dasyprocta punctata",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Dasyproctidae",
+      "tags": ["America"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "central-america-agouti-walking",
+      "name": {
+        "en": "central america agouti walking",
+        "es": "central america agouti walking"
+      },
+      "scienceName": "Dasyprocta punctata",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Dasyproctidae",
+      "tags": ["America"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "azara-s-agouti",
+      "name": {
+        "en": "Azara's agouti",
+        "es": "Azara's agouti"
+      },
+      "scienceName": "Dasyprocta azarae",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Dasyproctidae",
+      "tags": ["America"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-mountain-viscacha",
+      "name": {
+        "en": "northern mountain viscacha",
+        "es": "northern mountain viscacha"
+      },
+      "scienceName": "Lgidium peruanum",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Chinchillidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "northern-mountain-viscacha-seated",
+      "name": {
+        "en": "northern mountain viscacha seated",
+        "es": "northern mountain viscacha seated"
+      },
+      "scienceName": "Lgidium peruanum",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Chinchillidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pacarana",
+      "name": {
+        "en": "pacarana",
+        "es": "pacarana"
+      },
+      "scienceName": "Dinomys branickii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Dynomidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "desmarest-s-hutia",
+      "name": {
+        "en": "desmarest's hutia",
+        "es": "desmarest's hutia"
+      },
+      "scienceName": "Capromys pirolides",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Echimyidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "desmarest-s-hutia-eating",
+      "name": {
+        "en": "desmarest's hutia eating",
+        "es": "desmarest's hutia eating"
+      },
+      "scienceName": "Capromys pirolides",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Echimyidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "desmarest-s-hutia-standing",
+      "name": {
+        "en": "desmarest's hutia standing",
+        "es": "desmarest's hutia standing"
+      },
+      "scienceName": "Capromys pirolides",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Echimyidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tufted-pygmy-squirrel",
+      "name": {
+        "en": "tufted pygmy squirrel",
+        "es": "tufted pygmy squirrel"
+      },
+      "scienceName": "exilisciurus whiteheadi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Rodentia",
+			"family": "Sciuridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "etruscan-shrew",
+      "name": {
+        "en": "etruscan shrew",
+        "es": "etruscan shrew"
+      },
+      "scienceName": "suncus etruscus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "Soricidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cuban-solenodon",
+      "name": {
+        "en": "cuban solenodon",
+        "es": "cuban solenodon"
+      },
+      "scienceName": "Solenodon paradoxus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "Solenodontidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hispaniolan-solenodon",
+      "name": {
+        "en": "hispaniolan solenodon",
+        "es": "hispaniolan solenodon"
+      },
+      "scienceName": "Solenodon paradoxus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "Solenodontidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "large-flying-fox",
+      "name": {
+        "en": "large flying fox",
+        "es": "large flying fox"
+      },
+      "scienceName": "Pteropus vampyrus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "Pteropodidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hammer-headed-bat",
+      "name": {
+        "en": "hammer-headed bat",
+        "es": "hammer-headed bat"
+      },
+      "scienceName": "Hypsignathus monstrosus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "Pteropodidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesser-mouse-tailed-bat",
+      "name": {
+        "en": "lesser mouse-tailed bat",
+        "es": "lesser mouse-tailed bat"
+      },
+      "scienceName": "Rhinopoma hardwickii",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Eulipotyphla",
+			"family": "​Rhinopomatidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "north-pacific-right-whale",
+      "name": {
+        "en": "north pacific right whale",
+        "es": "north pacific right whale"
+      },
+      "scienceName": "Eubalaena japonica",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Balaenidae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blue-whale",
+      "name": {
+        "en": "blue whale",
+        "es": "ballena azul"
+      },
+      "scienceName": "Balaenoptera musculus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Balaenopteridae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "common-minke-whale",
+      "name": {
+        "en": "common minke whale",
+        "es": "common minke whale"
+      },
+      "scienceName": "Balaenoptera acutorostrata",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Balaenopteridae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "amazon-river-dolphin",
+      "name": {
+        "en": "amazon river dolphin",
+        "es": "amazon river dolphin"
+      },
+      "scienceName": "Irina geoffrensis",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Delphinidae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "killer-whale",
+      "name": {
+        "en": "killer whale",
+        "es": "orca asesina"
+      },
+      "scienceName": "Urcinus orca",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Delphinidae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dell-s-porpoise",
+      "name": {
+        "en": "dell's porpoise",
+        "es": "dell's porpoise"
+      },
+      "scienceName": "Phocoenoides delli",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Delphinidae",
+      "tags": ["marine"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "common-hippopotamus",
+      "name": {
+        "en": "common hippopotamus",
+        "es": "hipopótamo común"
+      },
+      "scienceName": "Hippopotamus amphibius",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Hippopotamidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "climacoceras-africanus",
+      "name": {
+        "en": "climacoceras africanus",
+        "es": "climacoceras africanus"
+      },
+      "scienceName": false,
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Climacoceratidae",
+      "tags": ["Africa","extint"],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yellow-striped-chevrotain",
+      "name": {
+        "en": "yellow-striped chevrotain",
+        "es": "yellow-striped chevrotain"
+      },
+      "scienceName": "Moschiola kathygre",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Tragulidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "greater-mouse-deer",
+      "name": {
+        "en": "Greater mouse-deer",
+        "es": "Greater mouse-deer"
+      },
+      "scienceName": "Tragulus napu",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Tragulidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "water-chevrotain",
+      "name": {
+        "en": "Water chevrotain",
+        "es": "Water chevrotain"
+      },
+      "scienceName": "Hyemoschus aquaticus",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "Tragulidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pronghorn",
+      "name": {
+        "en": "pronghorn",
+        "es": "pronghorn"
+      },
+      "scienceName": "Antilocapra americana",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "antilocapridae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giraffe-running1",
+      "name": {
+        "en": "giraffe running",
+        "es": "giraffe running"
+      },
+      "scienceName": "Giraffa",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giraffe-running2",
+      "name": {
+        "en": "giraffe running",
+        "es": "giraffe running"
+      },
+      "scienceName": "Giraffa",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giraffe-running3",
+      "name": {
+        "en": "giraffe running",
+        "es": "giraffe running"
+      },
+      "scienceName": "Giraffa",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kordofan-giraffe",
+      "name": {
+        "en": "kordofan giraffe",
+        "es": "kordofan giraffe"
+      },
+      "scienceName": "Giraffa camelopardalis antiquorum",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rothschild-s-giraffe",
+      "name": {
+        "en": "rothschild's giraffe",
+        "es": "rothschild's giraffe"
+      },
+      "scienceName": "Giraffa camelopardalis rothschildi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reticulated-giraffe",
+      "name": {
+        "en": "reticulated giraffe",
+        "es": "reticulated giraffe"
+      },
+      "scienceName": "Giraffa reticulata",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rhodesian-giraffe",
+      "name": {
+        "en": "rhodesian giraffe",
+        "es": "rhodesian giraffe"
+      },
+      "scienceName": "Giraffa tippelskirchi thornicrofti",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rhodesian-giraffe-looking-sideways",
+      "name": {
+        "en": "rhodesian giraffe",
+        "es": "rhodesian giraffe"
+      },
+      "scienceName": "Giraffa tippelskirchi thornicrofti",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "angolan-giraffe",
+      "name": {
+        "en": "angolan giraffe",
+        "es": "angolan giraffe"
+      },
+      "scienceName": "Giraffa camelopardalis antiquorum",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "massai-giraffe",
+      "name": {
+        "en": "massai giraffe",
+        "es": "massai giraffe"
+      },
+      "scienceName": "Giraffa tippelskirchi tippelskirchi",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "okapi",
+      "name": {
+        "en": "okapi",
+        "es": "okapi"
+      },
+      "scienceName": "Okapia johnstoni",
+      "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum.",
+        "es": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan faucibus elit, quis varius tellus finibus vel. Duis commodo diam eu tempus lacinia. Curabitur lobortis, purus nec lacinia ultrices, turpis erat sollicitudin leo, a ornare turpis ipsum eu velit. Integer sollicitudin leo at enim blandit, et mollis risus interdum."
+      },
+			"order": "Cetartiodactyla",
+			"family": "giraffidae",
+      "tags": [],
+      "variants": [
+        {
+          "size": "1:10",
+          "price": "15.00",
+          "dimensions": {
+            "width": "8",
+            "height": "15",
+            "depth": "4"
+          }
+        },
+        {
+          "size": "1:20",
+          "price": "18.00",
+          "dimensions": {
+            "width": "10",
+            "height": "18",
+            "depth": "6"
+          }
+        }
       ]
     },
     {
@@ -461,10 +3952,6 @@
             "depth": "6"
           }
         }
-      ],
-      "images": [
-        "/divartsity/images/embolotherium-regilensi1.jpg",
-        "/divartsity/images/embolotherium-regilensi1.jpg"
       ]
     }
 ]
