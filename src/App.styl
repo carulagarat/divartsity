@@ -7,6 +7,7 @@ $neutral-light = darken($neutral-lighter, 35%)
 
 $neutral-darkest = #302B21
 $neutral-darker = lighten($neutral-darkest, 10%)
+$neutral-dark = lighten($neutral-darkest, 20%)
 
 $primary = #C07754
 $secondary = #D0B070
@@ -77,6 +78,10 @@ body
 		display flex
 		flex-direction: column
 		align-items: center
+
+p
+	margin 0 0 8px 0
+	padding 0
 
 h1
 	font-weight 200
@@ -258,10 +263,19 @@ footer
 	height 20px
 
 .field
-	flex 1 1 100%
+	flex 1 1 50%
 	position relative
 	padding 8px 0 0 0
 	margin: 0 16px 8px 0
+	display: flex
+	align-items: center
+
+	&.checkbox
+		width auto
+		flex 0 0 auto
+
+	&:last-child
+		margin-right: 0
 
 	label
 		position absolute
@@ -275,19 +289,80 @@ footer
 		font-weight 500
 		padding 0 4px 
 		color $neutral-light
+
 	&.group
 		label
 			border-color $neutral-lightest
+	&.quantity
+		width 100px
+		flex 0 0 auto
 
 	input
 	select
 		width 100%
+		
 		&:disabled ~ label
 			color $neutral-lighter
 			border-color $neutral-lightest
 			cursor: initial
 
+	input[type=checkbox]
+		position absolute
+		z-index 3
+		opacity 0
+		border none
+		pointer-events: all
+
+		& ~ label
+			position relative
+			top unset
+			left unset
+			border-bottom none
+			height auto
+			padding-left: 32px
+			color $neutral-light
+
+			&::after
+			&::before
+				pointer-events: none
+				content: ''
+				display: block
+				position absolute
+
+			&::after
+				left 0
+				top calc(50% - 13px)
+				height 24px
+				width 24px
+				background-color white
+				border-radius 4px
+				border thin solid $neutral-lighter
+				z-index 1
+			
+			&::before
+				height 6px
+				width 6px
+				border-bottom 2px solid $primary
+				border-right 2px solid $primary
+				left 9px
+				top -2px
+				transform rotate(90deg)
+				z-index 2
+				opacity 0
+				transition: transform ease-in-out 100ms, height ease-in-out 100ms
+
+
+		&:checked ~ label
+			color $neutral-dark
+
+			&::before
+				height 12px
+				transform rotate(45deg)
+				opacity 1
+
+
 	.options
+		width 100%
 		border thin solid $neutral-lighter
 		height 40px
 		border-radius: 4px
@@ -306,9 +381,9 @@ footer
 	align-items center
 	font-weight 500
 	cursor pointer
-
 	text-transform: capitalize
 	margin 0 4px 0 0
+
 	&.selected
 		background-color white
 	
@@ -410,9 +485,23 @@ button
 		font-weight: 500
 		color $neutral-light
 
+.prePrice
+	p
+		margin-bottom 0
+		margin-right 16px
+		margin-top 4px
 
+	.times
+		font-size 14px
+		font-weight: 500
+		color $neutral-light
+		display block
+		margin-right 16px
+
+	
 .product-detail
 	width 100%
+
 
 	.product-info
 	.product-images
@@ -420,7 +509,7 @@ button
 		flex 0 0 50%
 
 	.product-info
-		padding 16px
+		padding 16px 24px
 		h1
 			margin 0 0 16px 0
 
@@ -428,3 +517,21 @@ button
 	.product-images
 		border thin solid $neutral-lighter
 		border-radius 4px
+
+
+.classification
+	background-color $neutral-lightest
+	margin 16px 0
+	padding 8px 16px
+	border-radius: 4px
+	color $neutral-dark
+	display inline-flex
+	width fit-content
+	p
+		margin 0 16px 0 0
+		font-size 14px
+		&:last-child
+			margin-right 0
+
+.fullwidth
+	width 100%

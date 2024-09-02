@@ -63,11 +63,12 @@ const ProductCatalog = ({ products, loading, error, texts }) => {
           {filteredProducts.length > 0 ? (
             filteredProducts.map(product => (
               <div key={product.id} className="product-card">
+
                 <Link to={`/divartsity/product/${product.id}`}>
+
                   <div className="product-images">
-                    {product.images.map((image, index) => (
-                      <img key={index} src={image} alt={`${product.name} image ${index + 1}`} />
-                    ))}
+                      <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb1.jpg`} alt={`${product.name} thumbnail 1`} />
+                      <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb2.jpg`} alt={`${product.name} thumbnail 2`} />
                   </div>
                   
                   <div className='info'>
