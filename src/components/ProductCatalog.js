@@ -1,36 +1,39 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Filters from './Filters';
 
 const ProductCatalog = ({ products, loading, error, texts }) => {
-  // State for filters
-  const [selectedTag, setSelectedTag] = useState('');
+  const [selectedTags, setSelectedTags] = useState([]);
   const [selectedFamily, setSelectedFamily] = useState('');
   const [selectedOrder, setSelectedOrder] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Function to find the smallest price in the variants array
   const getSmallestPrice = (variants) => {
-    if (variants.length === 0) return null;
-    const prices = variants.map(variant => parseFloat(variant.price.replace('$', '')));
-    const smallestPrice = Math.min(...prices);
-    return `$${smallestPrice.toFixed(2)}`;
+    const prices = variants.map(variant => {
+      return typeof variant.price === 'string' 
+        ? parseFloat(variant.price.replace('€', '')) 
+        : variant.price;
+    });
+    
+    return Math.min(...prices).toFixed(2);
   };
-
-  // Filter products based on tags, family, order, and search query
+  
   const filteredProducts = products.filter(product => {
-    const matchesTag = !selectedTag || product.tags.includes(selectedTag);
+    // Check if product tags include all selected tags
+    const matchesTag = selectedTags.length === 0 || selectedTags.every(tag => product.tags.includes(tag));
+    
+    // Other filter criteria
     const matchesFamily = !selectedFamily || product.family === selectedFamily;
     const matchesOrder = !selectedOrder || product.order === selectedOrder;
     const matchesSearch = product.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
                           product.description.toLowerCase().includes(searchQuery.toLowerCase());
-
+  
     return matchesTag && matchesFamily && matchesOrder && matchesSearch;
   });
-
-  // Function to clear all filters
+  
+  
   const clearAllFilters = () => {
-    setSelectedTag('');
+    setSelectedTags([]);
     setSelectedFamily('');
     setSelectedOrder('');
     setSearchQuery('');
@@ -45,17 +48,16 @@ const ProductCatalog = ({ products, loading, error, texts }) => {
 
         <h1>{texts.productCatalog}</h1>
 
-        {/* Use the Filters component */}
-        <Filters 
-          selectedTag={selectedTag}
-          setSelectedTag={setSelectedTag}
+        <Filters
+          selectedTags={selectedTags}
+          setSelectedTags={setSelectedTags}
           selectedFamily={selectedFamily}
           setSelectedFamily={setSelectedFamily}
           selectedOrder={selectedOrder}
           setSelectedOrder={setSelectedOrder}
           searchQuery={searchQuery}
           setSearchQuery={setSearchQuery}
-          products={products}  // Pass products here
+          products={products}
           texts={texts}
           clearAllFilters={clearAllFilters}
         />
@@ -63,14 +65,11 @@ const ProductCatalog = ({ products, loading, error, texts }) => {
           {filteredProducts.length > 0 ? (
             filteredProducts.map(product => (
               <div key={product.id} className="product-card">
-
                 <Link to={`/divartsity/product/${product.id}`}>
-
                   <div className="product-images">
-                      <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb1.jpg`} alt={`${product.name} thumbnail 1`} />
-                      <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb2.jpg`} alt={`${product.name} thumbnail 2`} />
+                    <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb1.jpg`} alt={`${product.name} thumbnail 1`} />
+                    <img src={`/divartsity/images/product-images/${product.id}/${product.id}-thumb2.jpg`} alt={`${product.name} thumbnail 2`} />
                   </div>
-                  
                   <div className='info'>
                     <div className='row'>
                       <h3>{product.name}</h3>

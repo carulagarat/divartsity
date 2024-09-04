@@ -130,8 +130,8 @@ h4
 	text-transform: capitalize
 
 .content
-	max-width: 980px
-	padding 16px
+	max-width: 100vh
+	// padding 16px
 	width 100%
 
 footer
@@ -190,7 +190,7 @@ footer
 		border-bottom thin solid $neutral-lighter
 		
 		.logo
-			width 100%
+			margin-right auto
 			justify-content flex-start
 			img
 				width 200px
@@ -226,6 +226,16 @@ footer
 	padding 16px 24px
 	border-radius 4px
 	margin 16px 0 32px
+	z-index 8
+
+	&.fixed
+		position fixed
+		border-top-left-radius 0
+		border-top-right-radius 0
+		top 40px
+		left 50%
+		transform translateX(-50%)
+		max-width: 100vh
 
 	.close
 		height 40px
@@ -270,6 +280,19 @@ footer
 	display: flex
 	align-items: center
 
+	.svg-inline--fa
+		height 14px
+		color $neutral-light
+		position absolute
+		top 20px
+		right 12px
+		z-index 1
+
+
+	&.w190
+		flex 0 0 auto
+		width: 190px
+
 	&.checkbox
 		width auto
 		flex 0 0 auto
@@ -291,6 +314,33 @@ footer
 		color $neutral-light
 
 	&.group
+
+		&.expandable
+			height 40px
+			overflow: visible
+			flex-direction: column
+
+			.tag-search
+				width: 100%
+			
+			.options
+				transition background ease-in-out 200ms, max-height ease-in-out 200ms
+				height auto
+				flex 0 0 auto
+				max-height 0px
+				opacity 0
+
+			&:hover
+				overflow: visible
+				align-items: flex-start
+				max-height 48px
+
+				.options
+					opacity 1
+					background-color white
+					max-height 400px
+					padding-bottom 8px
+
 		label
 			border-color $neutral-lightest
 	&.quantity
@@ -305,6 +355,9 @@ footer
 			color $neutral-lighter
 			border-color $neutral-lightest
 			cursor: initial
+
+		&:disabled ~ .svg-inline--fa
+			color $neutral-lighter
 
 	input[type=checkbox]
 		position absolute
@@ -364,18 +417,27 @@ footer
 	.options
 		width 100%
 		border thin solid $neutral-lighter
-		height 40px
-		border-radius: 4px
+		border-radius 0 0 4px 4px
 		padding-top 6px
 		padding-left 8px
+		border-top none
+
+.clear-button
+	position absolute
+	top 8px
+	right 0
+	.svg-inline--fa
+		height: 20px
+		top 10px
+		right 8px
 
 .tag
 	border thin solid $neutral-lighter
 	display: inline-flex
 	height 24px
 	font-size 14px
-	color $neutral-light
-	background-color $neutral-lighter
+	color $neutral-dark
+	background-color white
 	border-radius 16px
 	padding 0 8px 1px
 	align-items center
@@ -383,9 +445,13 @@ footer
 	cursor pointer
 	text-transform: capitalize
 	margin 0 4px 0 0
+	opacity .7
+	transition background ease-in-out 200ms, opacity ease-in-out 200ms
 
 	&.selected
-		background-color white
+		background-color $primary
+		color white
+		opacity 1
 	
 
 
@@ -406,6 +472,24 @@ button
 	flex 0 0 auto
 	border none
 	background-color transparent
+
+	&.primary
+		background-color: $neutral-darker
+		margin 0 8px 8px 0
+		color white
+		padding 0 12px
+		text-transform: uppercase
+		font-weight: 700
+		font-size: 16px
+		letter-spacing: 0.03em
+		
+		&:hover
+			background-color: $neutral-darkest
+		&:last-child
+			margin-right 0
+
+
+
 input
 select
 	font-size: inherit
@@ -535,3 +619,44 @@ button
 
 .fullwidth
 	width 100%
+
+.dimensions
+	font-size 14px
+	span
+		margin-right 2px
+
+.total
+	border-top thin solid $neutral-lighter
+	margin-top 32px
+	padding-top 24px
+	padding-left 16px
+
+	.price
+		margin-right: 8px
+		font-size 140%
+
+.prevPrice
+.offer
+	margin-right 8px
+	font-weight: 500
+.prevPrice
+	color $primary
+	position relative
+	margin-top 6px
+	&::before
+		content ''
+		position absolute
+		display block
+		border-bottom thin solid
+		height 1px
+		width 100%
+		transform rotate(-10deg) translateY(12px)
+.offer
+	margin-top 4px
+	display block
+	background $primary
+	padding 0 4px
+	font-size 14px
+	color white
+	border-radius: 4px
+	
