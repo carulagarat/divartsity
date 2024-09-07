@@ -99,7 +99,7 @@ h1 {
   font-size: 48px;
   line-height: 1em;
   letter-spacing: -0.04em;
-  color: #c07754;
+  color: #cd5f2a;
   width: auto;
   margin: 0 0 32px 0;
   padding: 0;
@@ -188,6 +188,16 @@ footer li:first-child {
       -ms-flex-align: center;
           align-items: center;
 }
+.row.bottom {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+.row.stretch {
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
 .row.right {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
@@ -258,7 +268,7 @@ footer li:first-child {
   text-transform: uppercase;
 }
 .nav a.active {
-  color: #c07754;
+  color: #cd5f2a;
 }
 .filters {
   width: 100%;
@@ -289,7 +299,7 @@ footer li:first-child {
   color: #494232;
 }
 .filters .close:hover {
-  color: #c07754;
+  color: #cd5f2a;
 }
 .filters .close.disabled {
   color: #cbc6b8;
@@ -305,7 +315,7 @@ footer li:first-child {
   display: flex;
   height: 20px;
   width: 20px;
-  background-color: #c07754;
+  background-color: #cd5f2a;
   color: #fff;
   position: absolute;
   -webkit-box-align: center;
@@ -337,6 +347,7 @@ footer li:first-child {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  height: 48px;
 }
 .field .svg-inline--fa {
   height: 14px;
@@ -375,7 +386,7 @@ footer li:first-child {
   color: #91876a;
 }
 .field.group.expandable {
-  height: 40px;
+  height: 48px;
   overflow: visible;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -467,8 +478,8 @@ footer li:first-child {
 .field input[type=checkbox] ~ label::before {
   height: 6px;
   width: 6px;
-  border-bottom: 2px solid #c07754;
-  border-right: 2px solid #c07754;
+  border-bottom: 2px solid #cd5f2a;
+  border-right: 2px solid #cd5f2a;
   left: 9px;
   top: -2px;
   -webkit-transform: rotate(90deg);
@@ -524,13 +535,16 @@ footer li:first-child {
   font-weight: 500;
   cursor: pointer;
   text-transform: capitalize;
-  margin: 0 4px 0 0;
+  margin: 0 4px 4px 0;
   opacity: 0.7;
   -webkit-transition: background ease-in-out 200ms, opacity ease-in-out 200ms;
   transition: background ease-in-out 200ms, opacity ease-in-out 200ms;
 }
+.tag:hover {
+  background-color: #ecdfc6;
+}
 .tag.selected {
-  background-color: #c07754;
+  background-color: #cd5f2a;
   color: #fff;
   opacity: 1;
 }
@@ -592,6 +606,127 @@ select:disabled {
 select,
 button {
   cursor: pointer;
+}
+.img-dimensions {
+  padding: 0 0 24px 40px;
+  position: relative;
+}
+.img-dimensions::after,
+.img-dimensions::before {
+  content: '';
+  display: block;
+  position: absolute;
+}
+.img-dimensions::after {
+  border-bottom: 1.5px dashed #cd5f2a;
+  top: 0;
+  left: 48px;
+  right: 0;
+}
+.img-dimensions::before {
+  border-left: 1.5px dashed #cd5f2a;
+  right: 0;
+  top: 0;
+  bottom: 28px;
+}
+.img-dimensions .width,
+.img-dimensions .height {
+  position: absolute;
+  color: #cd5f2a;
+  font-size: 14px;
+  font-weight: 500;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.img-dimensions .width::before,
+.img-dimensions .height::before,
+.img-dimensions .width::after,
+.img-dimensions .height::after {
+  content: '';
+  display: block;
+  height: 6px;
+  width: 6px;
+  position: absolute;
+}
+.img-dimensions .width {
+  height: 26px;
+  border-top: thin solid;
+  bottom: 0;
+  left: 42px;
+  right: 2px;
+}
+.img-dimensions .width::before {
+  border-right: 1.5px solid;
+  border-bottom: 1.5px solid;
+  right: 0;
+  top: -4px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.img-dimensions .width::after {
+  border-left: 1.5px solid;
+  border-bottom: 1.5px solid;
+  left: 0;
+  top: -4px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.img-dimensions .height {
+  border-right: thin solid;
+  top: 2px;
+  bottom: 28px;
+  right: calc(100% - 40px);
+  padding-right: 4px;
+}
+.img-dimensions .height::before {
+  border-right: 1.5px solid;
+  border-bottom: 1.5px solid;
+  top: 0;
+  right: -4px;
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+.img-dimensions .height::after {
+  border-left: 1.5px solid;
+  border-bottom: 1.5px solid;
+  bottom: 0;
+  right: -4px;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.img-dimensions img {
+  mix-blend-mode: multiply;
+  max-width: 300px;
+  max-height: 260px;
+  height: auto;
+}
+.product-selection .column {
+  padding: 0;
+  margin-right: 16px;
+}
+.product-selection .column .fieldWrapper {
+  padding-left: 40px;
+}
+.product-selection .column.checkout {
+  padding-left: 32px;
+  margin-left: auto;
+  border-left: thin solid #cbc6b8;
+  height: auto;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  min-width: 340px;
+}
+.product-selection .column.checkout .prePrice {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 100%;
+          flex: 1 1 100%;
 }
 .product-card {
   width: calc(33.33% - ((32px * 2) / 3));
@@ -726,9 +861,10 @@ button {
 }
 .total {
   border-top: thin solid #cbc6b8;
-  margin-top: 32px;
+  margin-top: 16px;
   padding-top: 24px;
   padding-left: 16px;
+  width: 100%;
 }
 .total .price {
   margin-right: 8px;
@@ -740,7 +876,7 @@ button {
   font-weight: 500;
 }
 .prevPrice {
-  color: #c07754;
+  color: #cd5f2a;
   position: relative;
   margin-top: 6px;
 }
@@ -757,9 +893,43 @@ button {
 .offer {
   margin-top: 4px;
   display: block;
-  background: #c07754;
+  background: #cd5f2a;
   padding: 0 4px;
   font-size: 14px;
   color: #fff;
   border-radius: 4px;
+}
+.carousel .control-dots .dot {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  background-color: #ecdfc6;
+  opacity: 1;
+}
+.carousel .control-dots .dot.selected {
+  background-color: #cd5f2a;
+}
+.carousel.carousel-slider .control-arrow {
+  opacity: 1;
+  color: #000;
+  font-size: 20px;
+  height: 100%;
+  border-radius: 0;
+}
+.carousel.carousel-slider .control-arrow::before {
+  border-radius: 8px;
+}
+.carousel.carousel-slider .control-arrow:hover {
+  background: transparent;
+}
+.carousel.carousel-slider .control-arrow:hover.control-next::before {
+  border-left-color: #cd5f2a;
+}
+.carousel.carousel-slider .control-arrow:hover.control-prev::before {
+  border-right-color: #cd5f2a;
+}
+.carousel.carousel-slider .control-arrow.control-next::before {
+  border-left-color: #ecdfc6;
+}
+.carousel.carousel-slider .control-arrow.control-prev::before {
+  border-right-color: #ecdfc6;
 }

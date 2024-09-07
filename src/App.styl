@@ -9,8 +9,9 @@ $neutral-darkest = #302B21
 $neutral-darker = lighten($neutral-darkest, 10%)
 $neutral-dark = lighten($neutral-darkest, 20%)
 
-$primary = #C07754
+$primary = darken(saturate(#EA6728,-20%), 10%)
 $secondary = #D0B070
+$secondary-lighter = lighten($secondary, 60%)
 
 html
 body
@@ -165,6 +166,12 @@ footer
 	&.middle
 		align-items: center
 
+	&.bottom
+		align-items: flex-end
+
+	&.stretch
+		align-items stretch
+
 	&.right
 		justify-content: flex-end
 
@@ -279,6 +286,7 @@ footer
 	margin: 0 16px 8px 0
 	display: flex
 	align-items: center
+	height 48px
 
 	.svg-inline--fa
 		height 14px
@@ -316,7 +324,7 @@ footer
 	&.group
 
 		&.expandable
-			height 40px
+			height 48px
 			overflow: visible
 			flex-direction: column
 
@@ -444,9 +452,11 @@ footer
 	font-weight 500
 	cursor pointer
 	text-transform: capitalize
-	margin 0 4px 0 0
+	margin 0 4px 4px 0
 	opacity .7
 	transition background ease-in-out 200ms, opacity ease-in-out 200ms
+	&:hover
+		background-color $secondary-lighter
 
 	&.selected
 		background-color $primary
@@ -506,6 +516,114 @@ select
 select
 button
 	cursor pointer
+
+.img-dimensions
+	padding 0 0 24px 40px
+	position: relative
+
+	&::after
+	&::before
+		content ''
+		display: block
+		position absolute
+	&::after
+		border-bottom 1.5px dashed $primary
+		top 0
+		left 48px
+		right 0
+	&::before
+		border-left 1.5px dashed $primary
+		right 0
+		top 0
+		bottom 28px
+
+
+	.width
+	.height
+		position absolute
+		color $primary
+		font-size: 14px
+		font-weight: 500
+		display: flex
+		justify-content: center
+		align-items: center
+		&::before
+		&::after
+			content ''
+			display: block
+			height 6px
+			width 6px
+			position absolute
+
+	.width
+		height 26px
+		border-top: thin solid
+		bottom 0
+		left 42px
+		right 2px
+
+		&::before
+			border-right 1.5px solid
+			border-bottom 1.5px solid
+			right 0
+			top -4px
+			transform rotate(-45deg)
+
+		&::after
+			border-left 1.5px solid
+			border-bottom 1.5px solid
+			left 0
+			top -4px
+			transform rotate(45deg)
+
+	.height
+		border-right: thin solid
+		top 2px
+		bottom 28px
+		right calc(100% - 40px)
+		padding-right 4px
+		
+		&::before
+			border-right 1.5px solid
+			border-bottom 1.5px solid
+			top 0
+			right -4px
+			transform rotate(-135deg)
+
+		&::after
+			border-left 1.5px solid
+			border-bottom 1.5px solid
+			bottom 0
+			right -4px
+			transform rotate(-45deg)
+	
+	img
+		mix-blend-mode multiply
+		max-width 300px
+		max-height 260px
+		height auto
+
+
+.product-selection
+	
+	.column
+		padding 0
+		margin-right 16px
+
+		.fieldWrapper
+			padding-left 40px
+
+		&.checkout
+			padding-left 32px
+			margin-left auto
+			border-left thin solid $neutral-lighter
+			height auto
+			margin-bottom 8px
+			margin-top 8px
+			min-width: 340px
+
+			.prePrice
+				flex 1 1 100%
 
 
 .product-card
@@ -627,9 +745,10 @@ button
 
 .total
 	border-top thin solid $neutral-lighter
-	margin-top 32px
+	margin-top 16px
 	padding-top 24px
 	padding-left 16px
+	width 100%
 
 	.price
 		margin-right: 8px
@@ -659,4 +778,41 @@ button
 	font-size 14px
 	color white
 	border-radius: 4px
-	
+
+.carousel
+	.control-dots
+		.dot
+			box-shadow: none
+			background-color $secondary-lighter
+			opacity 1
+			&.selected
+				background-color $primary
+	&.carousel-slider
+		.control-arrow
+			opacity 1
+			color black
+			font-size 20px
+			height: 100%
+			border-radius: 0
+			
+			&::before
+				border-radius 8px
+			
+			&:hover
+				background transparent
+				&.control-next
+					&::before
+						border-left-color: $primary
+				&.control-prev
+					&::before
+						border-right-color: $primary
+
+			&.control-next
+			
+				&::before
+					border-left-color $secondary-lighter
+			
+			&.control-prev
+			
+				&::before
+					border-right-color $secondary-lighter
